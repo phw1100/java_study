@@ -1,3 +1,4 @@
+
 public class VariableScope {
     public static void main(StringEx[] args) {
         int v1=15;
