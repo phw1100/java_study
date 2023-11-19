@@ -7,4 +7,8 @@ public class Boolean {
             System.out.println("시작합니다.");
         }
     }
+
+    public static boolean parseBoolean(String string) {
+        return false;
+    }
 }
