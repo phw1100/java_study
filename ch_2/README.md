@@ -1,18 +1,5 @@
-## Getting Started
+## Chapter 02 변수와 타입
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 변수에 대해 알아보고 변수를 선언, 저장, 사용하는 방법을 배운다.
+- 정수, 실수, 논리 리터럴을 저장하는 기본 타입에 대해 알아본다.
+- 자동 타입 변환, 강제 타입 변환에 대해 알아본다.

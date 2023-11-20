@@ -11,7 +11,8 @@ public class ScannerEx {
             if(inputData.equals("q")){
                 break;
             }
-        }
+            }
+        
         System.out.println("종료");
     }
 }
