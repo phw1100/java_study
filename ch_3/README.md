@@ -1,18 +1,5 @@
-## Getting Started
+## Chater 03 연산자
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 연산자와 피연산자의 개념에 대해 배우고, 연산의 방향과 우선순위에 대해 알아본다.
+- 단항 연산자와 이항 연산자의 종류에 대해 알아보고, 각각의 연산 방법에 대해 살펴본다.
+- 삼항 연산자의 조건식에 따른 연산 방법에 대해 살펴본다.
