@@ -1,18 +1,5 @@
-## Getting Started
+## Chapter 01 자바 시작하기
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 프로그래밍 언어와 자바의 개념을 이해한다.
+- 자바 개발 환경을 구축하고, 자바 프로그램 개발 순서를 배운다.
+- 자바 프로젝트를 생성하고, 컴파일 과정을 거쳐 바이트 코드를 실행하는 방법에 대해 알아본다.
