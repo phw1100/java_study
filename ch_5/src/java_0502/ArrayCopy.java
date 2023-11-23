@@ -1,7 +1,5 @@
 package java_0502;
 
-import javax.print.DocFlavor.STRING;
-
 public class ArrayCopy {
     public static void main(String[] args) {
         String[] oldStrArray = {"java","array","copy"};
